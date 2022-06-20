@@ -6,4 +6,3 @@
 def raise_exception():
     """Raise a TypeError exception."""
     raise TypeError
-© 2022 GitHub, Inc.
